@@ -26,7 +26,7 @@ Applying forensic analysis techniques
 Identifying suspicious activity
 Analytical thinking in forensic scenarios
 
-Purpose of This Repository
+# Purpose of This Repository
 
 To document completed tasks for November 2025
 To showcase practical skills in analytics and forensics
