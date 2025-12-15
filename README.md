@@ -1,11 +1,11 @@
-The work focuses on two key areas:
+# The work focuses on two key areas:
 
-Data Analysis
-Forensic Technology
+**Data Analysis**
+**Forensic Technology**
 
 These tasks demonstrate hands-on learning, analytical thinking, and practical application of concepts across both domains.
 
-Data Analysis – Completed Tasks
+# Data Analysis – Completed Tasks
 
 Practical work includes:
 
@@ -16,7 +16,7 @@ Visualizations and reporting
 Using tools like Excel / Python (Pandas)
 Identifying trends and patterns for decision-making
 
-Forensic Technology – Completed Tasks
+# Forensic Technology – Completed Tasks
 
 Practical work includes:
 
